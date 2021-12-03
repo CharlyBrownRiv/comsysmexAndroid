@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "271623551643",
+    "project_id": "fir-esthetic",
+    "storage_bucket": "fir-esthetic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271623551643:android:b8d3abd8781683e801643e",
+        "android_client_info": {
+          "package_name": "com.mx.loginesthetic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271623551643-vi2ua44ktceomfq093uocvbn11hlvf59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRbY46-MRonllQlIITk5l9TfL8rQdn4xQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271623551643-vi2ua44ktceomfq093uocvbn11hlvf59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
